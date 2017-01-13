@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\GitHub_repos\TrackerRS-OSVR\build_x64\CMakeFiles\9af1ae046768475727b69ecb01783b2c\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{ACD45D14-4643-3D1F-A88A-7A68B6CEE00A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
